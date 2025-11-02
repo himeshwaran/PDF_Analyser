@@ -33,7 +33,7 @@ It demonstrates how files can be analyzed to detect malicious patterns, hidden p
 git clone https://github.com/himeshwaran/PDF_Analyzer.git && 
 cd PDF_Analyzer &&
 pip install -r requirements.txt &&
-python app.py &&
+python app.py
 
 
 Then open your browser and visit:

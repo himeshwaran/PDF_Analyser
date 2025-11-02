@@ -29,11 +29,11 @@ It demonstrates how files can be analyzed to detect malicious patterns, hidden p
 
 ## ⚡ Installation
 
-bash
-git clone https://github.com/<your-username>/PDF_Analyzer.git
-cd PDF_Analyzer
-pip install -r requirements.txt
-python app.py
+
+git clone https://github.com/himeshwaran/PDF_Analyzer.git && 
+cd PDF_Analyzer &&
+pip install -r requirements.txt &&
+python app.py &&
 
 
 Then open your browser and visit:
